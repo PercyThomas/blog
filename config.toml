@@ -1,5 +1,5 @@
-# baseurl = "file:///d:/github/blog/docs/"
-baseurl = "https://percythomas.github.io/blog/"
+baseurl = "file:///d:/github/blog/docs/"
+# baseurl = "https://percythomas.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "head.png"
 
     [params.logo]
     url = "logo.png"
