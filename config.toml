@@ -1,5 +1,5 @@
-baseurl = "file:///d:/github/blog/docs/"
-# baseurl = "https://percythomas.github.io/blog/"
+# baseurl = "file:///d:/github/blog/docs/"
+baseurl = "https://percythomas.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
